@@ -1,0 +1,11 @@
+<style>
+      body{background-color: #eaf6f6;
+    }
+
+    hr {
+        border-style: none;
+        border-top-style: dotted;
+        border-color: rgb(224, 224green, 224blue);
+        border-width: 20px;
+        width: 20%;
+    }
