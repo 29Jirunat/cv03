@@ -1,11 +1,22 @@
-<style>
-      body{background-color: #eaf6f6;
+
+      body{background-color: #6998AB;
     }
 
     hr {
         border-style: none;
         border-top-style: dotted;
-        border-color: rgb(224, 224green, 224blue);
+        border-color: #406882;
         border-width: 20px;
         width: 20%;
     }
+/*.heehee {background-color: #406882;}*/
+p {color: #1A374D;}
+h1 {color: #1A374D;}
+h2 {color: #1A374D;}
+h3 {color: #1A374D;}
+.ttt {background-color: #B1D0E0;
+  border: thick double #32a1ce;
+}
+.tmm {background-color: #B1D0E0;
+  border: thick double #6998AB;}
+#007 {background-color: #1A374D;}
